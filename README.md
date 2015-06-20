@@ -1,4 +1,4 @@
-Getting and Cleaning Data
+#Getting and Cleaning Data
 
 The repository is the implementation of Getting Data course project. The aim is to demonstate the ability to collect, work with, and clean a data set. 
 
