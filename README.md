@@ -1,9 +1,5 @@
-==================================================================
 Getting and Cleaning Data
-Version 1.0
-==================================================================
-Karan Seth
-==================================================================
+
 The repository is the implementation of Getting Data course project. The aim is to demonstate the ability to collect, work with, and clean a data set. 
 
 ## Objective
