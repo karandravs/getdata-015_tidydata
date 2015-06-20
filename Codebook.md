@@ -37,11 +37,11 @@ The zip file is downloaded if data doesn't exist in the working directory. The a
  
 ##Description of the variables in the tiny_data.txt file
 General description of the file including:
-    - The data set consists of 180 obs of 68 variables
-    - The prefix 't' in variables name denotes time
-    - The prefix 'f' in variables name denotes frequency domain signals
-    - Features are normalized and bounded within [-1,1].
-    - Variables present in the dataset
+  -  The data set consists of 180 obs of 68 variables
+  -  The prefix 't' in variables name denotes time
+  -  The prefix 'f' in variables name denotes frequency domain signals
+  -  Features are normalized and bounded within [-1,1].
+  -  Variables present in the dataset
  
 ###Variable 1 Subject
 Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
